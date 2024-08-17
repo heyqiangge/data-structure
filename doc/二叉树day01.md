@@ -101,7 +101,7 @@ TreeNode *createTree(TreeNode *head){
 - 层序遍历
 
 ---
-下面给出前中后序的C++代码
+下面用递归法给出前中后序的C++代码
 
 - 前序：
 ``` C++
